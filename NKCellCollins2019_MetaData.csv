@@ -1,0 +1,17 @@
+Sample,CellType,Stage
+ieILC1_D1,ieILC1,4A
+ieILC1_D2,ieILC1,4A
+ieILC1_D3,ieILC1,4A
+ILC3_D1,ILC3,ILC3
+ILC3_D2,ILC3,ILC3
+ILC3_D3,ILC3,ILC3
+NK-CD56bright_D5,NK cell,4B
+NK-CD56bright_D6,NK cell,4B
+NK-CD56bright_D7,NK cell,4B
+NK-CD56bright_D8,NK cell,4B
+NK-CD56dim_CD57-_D5,NK cell,5
+NK-CD56dim_CD57-_D6,NK cell,5
+NK-CD56dim_CD57-_D7,NK cell,5
+NK-CD56dim_CD57+_D5,NK cell,6
+NK-CD56dim_CD57+_D6,NK cell,6
+NK-CD56dim_CD57+_D8,NK cell,6
