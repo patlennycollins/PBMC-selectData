@@ -1,0 +1,3 @@
+sample_id	filename_R1	filename_R2	subject_id	species	pcr_target_locus	tissue	sex	age	biomaterial_provider	single_cell	intervention	collection_time_point_relative	cell_subset
+spleen	Spleen_R1.fastq.gz	Spleen_R2.fastq.gz	sample1	mouse	TR	spleen	NA	3	lab	FALSE	none	Baseline	DN3
+thymus	Thymus_R1.fastq.gz	Thymus_R2.fastq.gz	sample1	mouse	TR	thymus	NA	3	lab	FALSE	none	Baseline	DN3
