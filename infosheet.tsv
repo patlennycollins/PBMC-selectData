@@ -1,0 +1,9 @@
+sample_id	filename_R1	filename_R2	subject_id	species	pcr_target_locus	tissue	sex	age	biomaterial_provider	single_cell	intervention	collection_time_point_relative	cell_subset
+ko_one	1-KO_R1.fastq.gz	1-KO_R2.fastq.gz	one	mouse	TR	thymus	NA	7	lab	FALSE	knockout	Baseline	DN3
+ko_two	2-KO_R1.fastq.gz	2-KO_R2.fastq.gz	two	mouse	TR	thymus	NA	7	lab	FALSE	knockout	Baseline	DN3
+ko_three	3-KO_R1.fastq.gz	3-KO_R2.fastq.gz	three	mouse	TR	thymus	NA	7	lab	FALSE	knockout	Baseline	DN3
+ko_four	4-KO_R1.fastq.gz	4-KO_R2.fastq.gz	four	mouse	TR	thymus	NA	7	lab	FALSE	knockout	Baseline	DN3
+ko_five	5-KO_R1.fastq.gz	5-KO_R2.fastq.gz	five	mouse	TR	thymus	NA	7	lab	FALSE	knockout	Baseline	DN3
+wt_six	6-WT_R1.fastq.gz	6-WT_R2.fastq.gz	six	mouse	TR	thymus	NA	7	lab	FALSE	wildtype	Baseline	DN3
+wt_seven	7-WT_R1.fastq.gz	7-WT_R2.fastq.gz	seven	mouse	TR	thymus	NA	7	lab	FALSE	wildtype	Baseline	DN3
+wt_eight	8-WT_R1.fastq.gz	8-WT_R2.fastq.gz	eight	mouse	TR	thymus	NA	7	lab	FALSE	wildtype	Baseline	DN3
