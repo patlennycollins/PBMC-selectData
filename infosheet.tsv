@@ -7,4 +7,3 @@ ko_five	5-KO_R1.fastq.gz	5-KO_R2.fastq.gz	five	mouse	TR	thymus	NA	7	lab	FALSE	kn
 wt_six	6-WT_R1.fastq.gz	6-WT_R2.fastq.gz	six	mouse	TR	thymus	NA	7	lab	FALSE	wildtype	Baseline	DN3
 wt_seven	7-WT_R1.fastq.gz	7-WT_R2.fastq.gz	seven	mouse	TR	thymus	NA	7	lab	FALSE	wildtype	Baseline	DN3
 wt_eight	8-WT_R1.fastq.gz	8-WT_R2.fastq.gz	eight	mouse	TR	thymus	NA	7	lab	FALSE	wildtype	Baseline	DN3
-
